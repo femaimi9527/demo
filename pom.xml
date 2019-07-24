@@ -50,7 +50,7 @@
 		<!--使用c3p0数据库连接池-->
 			<groupId>com.mchange</groupId>
 			<artifactId>c3p0</artifactId>
-			<version>0.9.5.3</version>
+			<version>0.9.5.4</version>
 		</dependency>
 	</dependencies>
 
